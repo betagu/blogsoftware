@@ -1,0 +1,2 @@
+# blogsoftware
+blog de noticias
